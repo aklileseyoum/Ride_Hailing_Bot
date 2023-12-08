@@ -48,10 +48,3 @@ Ride Hailing Bot is a Telegram bot designed to streamline ride booking, enhance 
 6. **History and Receipts**
    - View your ride history and receipts for completed rides.
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/ride-hailing-bot.git
-
